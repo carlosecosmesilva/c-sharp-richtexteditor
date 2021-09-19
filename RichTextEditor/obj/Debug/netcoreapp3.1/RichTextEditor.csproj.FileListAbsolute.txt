@@ -1,0 +1,17 @@
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.exe
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.deps.json
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.runtimeconfig.json
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.runtimeconfig.dev.json
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.dll
+E:\Projetos com C#\RichTextEditor\RichTextEditor\bin\Debug\netcoreapp3.1\RichTextEditor.pdb
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.csproj.AssemblyReference.cache
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.Form1.resources
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.Properties.Resources.resources
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.csproj.GenerateResource.cache
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.AssemblyInfoInputs.cache
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.AssemblyInfo.cs
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.csproj.CoreCompileInputs.cache
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.dll
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.pdb
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.genruntimeconfig.cache
+E:\Projetos com C#\RichTextEditor\RichTextEditor\obj\Debug\netcoreapp3.1\RichTextEditor.GeneratedMSBuildEditorConfig.editorconfig
